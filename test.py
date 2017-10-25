@@ -1,1 +1,3 @@
-from math import math
+from math import sqrt
+
+x = sqrt(5-2)
